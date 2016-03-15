@@ -1,0 +1,16 @@
+**************************
+BACKGROUND IMAGE CHALLENGE
+**************************
+
+Your task is to exercise your new background image skills in order to make
+something that looks roughly like "photography.png"
+
+Hints:
+ - Use bg.jpg for the background image of the page.
+ - Use wrap-bg.jpg for the background image of the wrap.
+ - Gallery Images should be arranged in a grid with 2 rows and 3 columns.
+ - Center the wrap and gallery images on the page.
+
+References for background-image:
+ - http://www.w3schools.com/cssref/pr_background-image.asp
+ - http://www.w3schools.com/cssref/pr_background-repeat.asp
